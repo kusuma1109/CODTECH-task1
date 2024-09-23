@@ -28,4 +28,7 @@ Optionally, allow the user to perform another calculation or exit.
 
 4. Error Handling
 Handle division by zero.
+
+![Screenshot 2024-09-23 205816](https://github.com/user-attachments/assets/49af574e-8c8a-4132-99cc-659653035440)
+
    
